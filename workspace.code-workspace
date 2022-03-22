@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\bai kiem tra"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "new work"
+	}
+}
